@@ -19,3 +19,5 @@ Something similar to most social media or blog apps posts out there.
 
 Feel free to read the whole article on my blog [React Native Share Posts Example](https://reactnativemaster.com/react-native-share-posts-example/)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://expo.io/@alhydra/react-native-share-posts-example)
+
+[Need a React Native Developer ? Hire Me](https://reactnativemaster.com/senior-react-native-developer-ready-to-go/)
